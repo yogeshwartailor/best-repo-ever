@@ -1,0 +1,16 @@
+--Notes for custom adapter--
+
+Datasource.connection and Datasource.provider classes 
+
+
+-https://help.salesforce.com/articleView?id=apex_adapter_setup.htm&type=0
+
+-https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_connector_start_setup.htm
+
+-https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_connector_concepts.htm
+
+-https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_connector_custom_adapter.htm
+
+-https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_connector_examples.htm
+
+-https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_class_DataSource_Connection.htm#apex_class_DataSource_Connection (Important)
